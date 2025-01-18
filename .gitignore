@@ -169,3 +169,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+scrape_ufc_stats/data/fighter_data.ndjson
