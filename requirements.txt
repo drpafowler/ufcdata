@@ -2,3 +2,4 @@ icecream
 pint
 bs4
 requests
+pandas
